@@ -1,0 +1,110 @@
+charset,UTF-8
+type,balloon
+use_self_alpha,1
+use_input_alpha,1
+//overlay_outside_balloon,1
+
+
+//——— Basic information ———
+name,Crystal Balloon Blue
+craftman, Vita/yuyudev
+craftmanurl,https://thatoddhaystack.neocities.org/ukagaka/
+homeurl,
+
+
+//——— Display area ———
+origin.x,0
+origin.y,0
+
+validrect.left,7
+validrect.top,10
+validrect.right,-20
+validrect.bottom,-20
+
+wordwrappoint.x,-28
+
+
+//——— Font ———
+font.name,Lucida Sans
+font.height,16
+
+font.color.r,30
+font.color.g,30
+font.color.b,130
+
+font.shadowcolor.r,165
+font.shadowcolor.g,165
+font.shadowcolor.b,245
+font.shadowstyle,offset
+
+anchor.font.color.r,109
+anchor.font.color.g,101
+anchor.font.color.b,224
+
+anchor.style,none
+
+cursor.font.color.r,109
+cursor.font.color.g,101
+cursor.font.color.b,224
+
+cursor.font.shadowcolor.r,175
+cursor.font.shadowcolor.g,175
+cursor.font.shadowcolor.b,255
+cursor.font.shadowstyle,offset
+
+cursor.style,none
+
+disable.font.color.r,146
+disable.font.color.g,135
+disable.font.color.b,178
+
+
+//——— Arrows ———
+arrow0.x,-18
+arrow0.y,5
+
+arrow1.x,-18
+arrow1.y,-20
+
+
+//——— Online marker ———
+onlinemarker.x,5
+onlinemarker.y,-18
+
+//onlinemarker.interval,175
+
+
+//——— SSTP ———
+sstpmarker.x,18
+sstpmarker.y,-18
+
+sstpmessage.font.name,Lucida Sans
+sstpmessage.font.height,11
+
+sstpmessage.x,31
+sstpmessage.xr,-20
+sstpmessage.y,-17
+
+sstpmessage.font.color.r,100
+sstpmessage.font.color.g,100
+sstpmessage.font.color.b,200
+
+
+//——— Number ———
+number.font.name,Lucida Sans
+number.font.height,11
+
+number.xr,-20
+number.y,-17
+
+number.font.color.r,100
+number.font.color.g,100
+number.font.color.b,200
+
+
+//——— Input box ———
+communicatebox.x,4
+communicatebox.y,4
+
+communicatebox.width,292
+communicatebox.height,28
